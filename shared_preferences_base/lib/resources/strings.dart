@@ -1,0 +1,9 @@
+const String STUDENT_ADJUSTMENT = "Đánh giá học sinh";
+const String ADJUSTMENT = "Đánh giá";
+const String INFORMATION = "Thông tin";
+const String AVERAGE_MARK = "Điểm Trung Bình";
+const String ADJUSTMENT_RESULT ="Kết quả đánh giá";
+const String CHANGE_PAGE = "Chuyển trang" ;
+const String SHARED_PREFERENCES_DATA = "Dữ liệu SharedPreference";
+const String ERROR_LOAD = "Load dữ liệu lỗi";
+const String CHANGE_PAGE_LOAD = "Chuyển trang hiển thị Data từ SharedPreferences" ;
